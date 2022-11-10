@@ -1,0 +1,29 @@
+.hi{
+    text-align: center;
+    color: red;
+}
+
+.ht{
+    text-align: center;
+    color: red;
+    border-style: groove;
+    border: 20px solid;
+    border-color: grey;
+}
+
+#me{
+    text-align: left;
+    color: cadetblue;
+    border-style: groove;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+#hy{
+    text-align: center;
+    border-style: groove;
+    margin: 10px;
+    border: 20px solid lightseagreen;
+    border-style: groove;
+    
+}
